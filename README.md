@@ -15,4 +15,4 @@ Este repositorio se ha creado para practicar Git, GitHub y Markdown.
 
 ## Autor
 
-Creado por [Tu Nombre].
+Creado por Fernando Herrero.
